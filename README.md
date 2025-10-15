@@ -1,5 +1,3 @@
-# Hi there, I'm Aneel! 👋
-
 <!--
 **aneelatwal/aneelatwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Aneel! 👋
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aneelatwal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br>
 
 I completed a Computer Engineering degree at Simon Fraser University. I'm passionate about software engineering, fullstack development, and embedded systems. I'm always looking for new opportunities to learn and grow as an engineer!
 
