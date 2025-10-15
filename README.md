@@ -37,3 +37,18 @@ Fullstack developer intern. Worked with React, Next.js, TypeScript.
 ### Haletale
 
 Frontend developer intern. Worked with React, JavaScript.
+
+
+## 💻 Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,java,ts,js,html,css,matlab)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,arduino,raspberrypi,postgres,mongodb,vscode,visualstudio,androidstudio,pycharm,latex,figma)](https://skillicons.dev)
+
+### Libraries/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,aws,docker,pytorch,dotnet,tailwind)](https://skillicons.dev)
+
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
