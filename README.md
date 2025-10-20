@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Aneel! 👋
+# Hello, I'm Aneel! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aneelatwal/">
