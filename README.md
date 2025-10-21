@@ -42,7 +42,7 @@ Frontend developer intern. Worked with React, JavaScript.
 ## 💻 Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,java,ts,js,html,css,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,go,python,java,ts,js,html,css,matlab)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,arduino,raspberrypi,postgres,mongodb,vscode,visualstudio,androidstudio,pycharm,latex,figma)](https://skillicons.dev)
